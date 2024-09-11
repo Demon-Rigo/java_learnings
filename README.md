@@ -1,5 +1,5 @@
 # java_learnings
 I created this repo for my java learning to stay public whatever i code...
 
-#JAVA PROJECTS 
+#JAVA_PROJECTS 
 I daily commit a java related projects in my java_learnings repo...
